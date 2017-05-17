@@ -1,5 +1,5 @@
 ---
-title: Welcome to the LineageOS wiki!
+title: Welcome to the Legacy Huawei wiki!
 sidebar: home_sidebar
 permalink: index.html
 toc: false
@@ -26,7 +26,7 @@ and then [capture a log]({{ "logcat.html" | relative_url}}).
 
 This wiki is powered by [Jekyll](https://jekyllrb.com/).
 
-* You can look at the source [on GitHub](https://github.com/LineageOS/lineage_wiki).
+* You can look at the source [on GitHub](https://github.com/nicknitewolf/legacy_huawei_wiki).
 * And of course, we have a comprehensive guide on [contributing]({{ "contributing.html" | relative_url }}).
 
 ### Build for your device!
