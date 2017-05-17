@@ -1,0 +1,45 @@
+architecture: arm
+battery: Removable Li-Po 1500 mAh
+bluetooth: v2.1 with A2DP, EDR
+cameras:
+- {flash: 'LED', info: '5 MP'}
+carrier:
+channels: [weekly]
+codename: u8800
+cpu: Scorpion
+cpu_cores: '1'
+cpu_freq: 800 MHz
+current_branch: 14.1
+depth: 11.6 mm (0.46 in)
+download_boot: Hold **Volume Up** , **Volume Down** and **Power** buttons simultaneously.
+  Continue to hold both buttons until a pink screen appears on the screen, then release.
+gpu: Adreno 205
+has_recovery_partition: true
+height: 120 mm (4.72 in)
+image: u8800.png
+install_method: u8800
+kernel: android_kernel_huawei_msm7x30
+maintainers: [blefish]
+name: Huawei U8800 IDEOS X5
+network:
+- {tech: 2G, bands: '800 900 1800 1900 MHz GSM' }
+- {tech: 3G, bands: '900 2100 MHz HSDPA' }
+peripherals: [Accelerometer, Proximity sensor, Compass, GPS]
+ram: 512 MB
+recovery_boot: Hold **Volume Up** and **Power** buttons simultaneously.
+  Continue to hold both buttons until the "Huawei" logo appears on the screen, then release.
+release: 2010 December
+screen: 119.4 mm (4.7 in)
+screen_ppi: '246'
+screen_res: 480 x 800
+screen_tech: TFT
+sdcard: up to 32 GB
+soc: Qualcomm MSM7230 Snapdragon S2
+storage: 2/4 GB
+tree: android_device_huawei_u8800
+type: phone
+vendor: Huawei
+vendor_short: huawei
+versions: [14.1]
+width: 62 mm (2.44 in)
+wifi: 802.11 b/g/n, Hotspot
